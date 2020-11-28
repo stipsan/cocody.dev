@@ -1,14 +1,4 @@
 {
-  "name": "mysanityproject",
-  "private": true,
-  "version": "1.0.0",
-  "description": "",
-  "main": "package.json",
-  "author": "Knut Melvær <knut@sanity.io>",
-  "license": "UNLICENSED",
-  "keywords": [
-    "sanity"
-  ],
   "dependencies": {
     "@sanity/production-preview": "^2.0.5",
     "@sanity/base": "^2.0.5",
