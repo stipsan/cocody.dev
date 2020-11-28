@@ -1,3 +1,5 @@
+console.log(process.env.SANITY_STUDIO_PREVIEW_SECRET)
+
 export default function resolveProductionUrl(document) {
-  return `https://cocody.dev/posts/${document.slug.current}`;
+  return `/api/preview?secret=${process.env.SANITY_STUDIO_PREVIEW_SECRET}&slug=${document.slug.current}`
 }
