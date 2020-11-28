@@ -11,7 +11,7 @@
     "postinstall": "lerna bootstrap"
   },
   "dependencies": {
-    "autoprefixer": "10.0.2",
+    "autoprefixer": "10.0.4",
     "@sanity/block-content-to-react": "^2.0.7",
     "@sanity/client": "^1.149.18",
     "@sanity/image-url": "^0.140.19",
