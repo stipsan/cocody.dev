@@ -7,7 +7,6 @@ export default async function preview(req, res) {
     req.query.secret !== process.env.SANITY_STUDIO_PREVIEW_SECRET ||
     !req.query.slug
   ) {
-    console.log(req.query.secret, process.env.SANITY_STUDIO_PREVIEW_SECRET)
     return res.status(401).json({ message: 'Invalid token' })
   }
 
