@@ -24,7 +24,7 @@
     "swr": "^0.2.3",
     "postcss-preset-env": "^6.7.0",
     "next-sanity": "^0.1.8",
-    "postcss": "8.1.7",
+    "postcss": "^8.1.7",
     "tailwindcss": "^2.0.1"
   },
   "devDependencies": {
