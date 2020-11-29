@@ -2,9 +2,9 @@
 
 @tailwind components;
 
-article a {
-  color: rgb(49, 49, 182);
-  text-decoration: underline;
+html,
+body {
+  @apply font-body;
 }
 
 @tailwind utilities;
