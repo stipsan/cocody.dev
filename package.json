@@ -15,14 +15,14 @@
     "autoprefixer": "^10.0.4",
     "classnames": "^2.2.6",
     "date-fns": "^2.16.1",
-    "next": "10.0.7",
+    "next": "10.1.2",
     "next-sanity": "^0.1.8",
     "postcss": "^8.1.14",
     "postcss-preset-env": "^6.7.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-spring-bottom-sheet": "^3.0.0",
-    "swr": "^0.4.0",
+    "swr": "^0.5.0",
     "tailwindcss": "^2.0.1"
   },
   "devDependencies": {
