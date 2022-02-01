@@ -18,7 +18,7 @@
     "next": "10.2.3",
     "next-sanity": "^0.4.0",
     "postcss": "^8.1.14",
-    "postcss-preset-env": "^6.7.0",
+    "postcss-preset-env": "^7.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-spring-bottom-sheet": "^3.0.0",
