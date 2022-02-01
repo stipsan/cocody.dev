@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "@sanity/cli": "^2.0.9",
+    "@types/node": "^17.0.14",
     "lerna": "^3.22.1",
     "typescript": "^4.1.2"
   },
