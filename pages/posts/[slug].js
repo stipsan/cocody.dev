@@ -40,7 +40,7 @@ export default function Post({data = {}, preview }) {
             <article>
               <Head>
                 <title>{post.title} | Cody Olsen</title>
-                <meta
+                {post.coverImage && <meta
                     key="ogImage"
                     property="og:image"
                     content={urlForImage(post.coverImage)
@@ -48,7 +48,7 @@ export default function Post({data = {}, preview }) {
                       .height(627)
                       .fit('crop')
                       .url()}
-                  />
+                  />}
 
               </Head>
               <PostHeader
