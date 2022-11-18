@@ -12,7 +12,7 @@
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-hook-form": "^7.0.0",
-    "sanity-plugin-asset-source-unsplash": "^0.2.0",
+    "sanity-plugin-asset-source-unsplash": "^1.0.0",
     "styled-components": "^5.3.3"
   }
 }
