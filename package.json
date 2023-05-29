@@ -9,7 +9,7 @@
     "postinstall": "lerna bootstrap"
   },
   "dependencies": {
-    "@portabletext/react": "^1.0.3",
+    "@portabletext/react": "^3.0.0",
     "@sanity/image-url": "^1.0.1",
     "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
