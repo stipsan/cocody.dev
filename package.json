@@ -14,7 +14,7 @@
     "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
     "next": "12.3.4",
-    "next-sanity": "^0.8.0",
+    "next-sanity": "^3.1.9",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-spring-bottom-sheet": "^3.4.0",
